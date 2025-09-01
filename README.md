@@ -1,4 +1,4 @@
-# [Framelings] 🖼️
+# Framelings 🖼️
 
 Small exercises to get you used to reading and writing [FRAME](https://docs.polkadot.com/develop/parachains/customize-parachain/overview/) code.
 
